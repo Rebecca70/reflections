@@ -1,15 +1,22 @@
-What happens when you initialize a repository? Why do you need to do it?
+1) What happens when you initialize a repository? Why do you need to do it?
   It creates a place where the hidden git filese are stored.
   It's needed to be able to create and store commits.
 
-How is the staging area different from the working directory and the repository?
+2) How is the staging area different from the working directory and the repository?
 What value do you think it offers?
   The staging area shows the files I want to commit but haven't been commited yet.
   The working directory is just a common folder.
   The staging area allows me to see/control easily what I want to commit.
 
-How can you use the staging area to make sure you have one commit per logical change?
+3) How can you use the staging area to make sure you have one commit per logical change?
   I can compare the files in the staging area with the file which have not yet
   been commited or with the files which were commited at an earlier stage.
   This allows me to see what changes were really made and decide if they belong
   to the same logical change.
+
+4) What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+  If I want to try out a new feature but I'm not yet sure if I'm really going to use it.
+  A branch allows me to keep the files at a certain stage (for example game works perfectly),
+  but at the same time I can work on adding/chaning features without actually
+  changing the original files.
