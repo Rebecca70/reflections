@@ -28,3 +28,5 @@ How would branches help?
 
 6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
   The changes which were made independently on the two branches will be included in the remaining branch.
+  It is represented as this in order to visualize the different branches, their parents and which
+  commits might not be merged and why.
