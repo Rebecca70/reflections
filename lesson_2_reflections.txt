@@ -30,3 +30,9 @@ How would branches help?
   The changes which were made independently on the two branches will be included in the remaining branch.
   It is represented as this in order to visualize the different branches, their parents and which
   commits might not be merged and why.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  Automatic merges are much faster and with Git's ability, the risk of merging 'wrong' things
+  is minimal. Git notifies me if a merge might be incorrect or might be causing issues. I
+  can then decide if which part I want to merge of if the code needs updating in order to
+  have a correct merge.
