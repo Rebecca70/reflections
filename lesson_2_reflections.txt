@@ -25,3 +25,6 @@ How would branches help?
   They can make it clear which commit is related to which parent.
   Additionally, it shows easily the different branches. It can also
   show commits which are not linked to any branch.
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  The changes which were made independently on the two branches will be included in the remaining branch.
