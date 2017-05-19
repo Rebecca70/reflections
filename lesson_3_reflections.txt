@@ -2,4 +2,6 @@
   There are many reasons for this but the main reasons are the following:
     - sharing my work with others
     - create a backup of my work
-   
+
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  I would like to control what is made public. I might still be trying out things and I might still be working on the changes. 
