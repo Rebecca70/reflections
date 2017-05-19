@@ -20,3 +20,8 @@ How would branches help?
   A branch allows me to keep the files at a certain stage (for example game works perfectly),
   but at the same time I can work on adding/chaning features without actually
   changing the original files.
+
+5) How do the diagrams help you visualize the branch structure?
+  They can make it clear which commit is related to which parent.
+  Additionally, it shows easily the different branches. It can also
+  show commits which are not linked to any branch.
