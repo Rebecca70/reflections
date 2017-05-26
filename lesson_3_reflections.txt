@@ -14,3 +14,8 @@
 
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
    I can work offline.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  I would have to send around zip files with all my files. This would make it somehow more controlled, but much more
+  time consuming and if several people are working on the same project, it would be very difficult to keep track of
+  the changes and to figure out what is really the 'master'.
