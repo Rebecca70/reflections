@@ -19,3 +19,9 @@
   I would have to send around zip files with all my files. This would make it somehow more controlled, but much more
   time consuming and if several people are working on the same project, it would be very difficult to keep track of
   the changes and to figure out what is really the 'master'.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  For easy and straight forward changes I might decide to do the changes directly in master since it's quicker and no merging etc.
+  would be necessary later on. However, if the changes are more complex or I want to try out things or several people are working on
+  the same project, I would decide to go for different/new branche(s) in order to keep the master branch running without any interruption.
+  Once everybody is satisfied with the changes, these can be merged.
