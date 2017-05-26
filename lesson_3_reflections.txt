@@ -4,10 +4,13 @@
     - create a backup of my work
 
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-  I would like to control what is made public. I might still be trying out things and I might still be working on the changes. 
-  
+  I would like to control what is made public. I might still be trying out things and I might still be working on the changes.
+
 3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
   branch: creates a new 'direction' of your repository without terminating the old 'direction'. Work can be done on both branches
   individually and they can be merged later on if required.
   clone: a clone is a copy of a repository on GitHub to the a local place. It's a GitHub terminology.
   fork: creates a copy of an existing repository on GitHub which allows to trace back to the original repository
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+   I can work offline.
